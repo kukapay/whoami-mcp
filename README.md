@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/kukapay-whoami-mcp-badge.jpg)](https://mseep.ai/app/kukapay-whoami-mcp)
+
 # WhoAmI MCP Server
 
 A lightweight MCP server that tells you exactly who you are.
