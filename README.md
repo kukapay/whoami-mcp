@@ -4,6 +4,10 @@
 
 A lightweight MCP server that tells you exactly who you are.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/whoami-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/whoami-mcp/badge" alt="whoami-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/whoami-mcp) 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/kukapay/whoami-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
