@@ -2,6 +2,7 @@
 
 # WhoAmI MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@kukapay/whoami-mcp)](https://smithery.ai/server/@kukapay/whoami-mcp)
 A lightweight MCP server that tells you exactly who you are.
 
 <a href="https://glama.ai/mcp/servers/@kukapay/whoami-mcp">
@@ -18,6 +19,14 @@ A lightweight MCP server that tells you exactly who you are.
 - Fast and synchronous execution, ideal for local LLM integration.
 
 ## Installation
+
+### Installing via Smithery
+
+To install WhoAmI for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/whoami-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/whoami-mcp --client claude
+```
 
 1. **Clone the Repository**
     ```bash
